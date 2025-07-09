@@ -15,11 +15,11 @@ Este projeto foi apresentado na **Semana Nacional de Ciência e Tecnologia de 20
 - **Sistema de Arquivos .jar executável**
 ---
 
-## Artigo Acadêmico
+## 📄 Artigo Acadêmico
 Este projeto foi documentado em um artigo técnico, abordando desde a motivação até a modelagem UML e os resultados do sistema.
 artigo/Artigo-PSIS.pdf
 
-## Equipe de Desenvolvimento
+## 👥 Equipe de Desenvolvimento
 Este projeto foi desenvolvido por estudantes do terceiro ano do ensino médio integrado ao técnico do IFPI:
 Jéssica Mayara Soares Ferreira
 Rebeca de Souza Gonzaga
