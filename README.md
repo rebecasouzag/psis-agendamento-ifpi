@@ -12,7 +12,6 @@ Este projeto foi apresentado na **Semana Nacional de Ciência e Tecnologia de 20
 - **NetBeans IDE** (ambiente de desenvolvimento)
 - **PostgreSQL** (banco de dados relacional)
 - **UML com Astah Community** (modelagem de software)
-- **Sistema de Arquivos .jar executável**
 ---
 
 ## 📄 Artigo Acadêmico
@@ -21,12 +20,16 @@ artigo/Artigo-PSIS.pdf
 
 ## 👥 Equipe de Desenvolvimento
 Este projeto foi desenvolvido por estudantes do terceiro ano do ensino médio integrado ao técnico do IFPI:
-Jéssica Mayara Soares Ferreira
 Rebeca de Souza Gonzaga
+
+Jéssica Mayara Soares Ferreira
+
 Rômulo Silva Lima
 
 Orientadores:
+
 André Francisco Coelho Castro
+
 Elane Cristina da Rocha Cardoso Saraiva
 
 ## Licença
