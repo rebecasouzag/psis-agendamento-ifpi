@@ -21,7 +21,7 @@ Para rodar o sistema, é necessário ter o Java instalado na máquina. No termin
 ```bash
 cd dist
 java -jar PSIS.jar
-
+--- 
 ## Artigo Acadêmico
 Este projeto foi documentado em um artigo técnico, abordando desde a motivação até a modelagem UML e os resultados do sistema.
 Você pode acessá-lo em:
