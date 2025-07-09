@@ -14,13 +14,7 @@ Este projeto foi apresentado na **Semana Nacional de Ciência e Tecnologia de 20
 - **UML com Astah Community** (modelagem de software)
 - **Sistema de Arquivos .jar executável**
 ---
-##  Como Executar
-Para rodar o sistema, é necessário ter o Java instalado na máquina. No terminal, execute:
 
-bash
-cd dist
-java -jar PSIS.jar
---- 
 ## Artigo Acadêmico
 Este projeto foi documentado em um artigo técnico, abordando desde a motivação até a modelagem UML e os resultados do sistema.
 artigo/Artigo-PSIS.pdf
